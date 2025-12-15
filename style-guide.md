@@ -11,11 +11,15 @@ The designs were created to the following widths:
 
 ## Colors
 
+<!-- Card background color -->
 - White: hsl(0, 0%, 100%)
 
+<!-- Body background color -->
 - Slate 300: hsl(212, 45%, 89%)
+<!-- Text Below Header color -->
 - Slate 500: hsl(216, 15%, 48%)
-- Slate 900: hsl(218, 44%, 22%)
+<!-- Header text color  -->
+- Slate 900: hsl(218, 44%, 22%)   
 
 ## Typography
 

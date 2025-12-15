@@ -1,0 +1,32 @@
+body { 
+    background-color:  hsl(212, 45%, 89%); 
+    font-family:"Open Sans", sans-serif; 
+    margin: 0;
+    padding: 0;
+}
+
+
+.card { 
+    background-color: hsl(0, 0%, 100%); 
+    width: 340px;
+    border-radius: 20px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+}
+
+.card-img { 
+    width: 340px;
+    border-radius: 20px;
+}
+
+.card h2 { 
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.card p { 
+    font-size: 18px;
+    color: hsl(216, 15%, 48%);
+}
